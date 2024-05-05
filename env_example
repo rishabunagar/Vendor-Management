@@ -1,0 +1,7 @@
+ENGINE_NAME="enter db engine name"
+DB_NAME="enter db name"
+DB_USER="enter db user"
+DB_PASSWORD="enter db password"
+DB_HOST="enter db host"
+DB_PORT="enter db port"
+SECRET_KEY="enter project secret key"
