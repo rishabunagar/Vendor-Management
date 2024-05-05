@@ -11,6 +11,9 @@
  - python manage.py makemigrations
  - python manage.py migrate
 
+#Run project:
+ - python manage.py runserver
+ 
 #Create .env file on root level
   - touch .env
   - copy variable names from env_example file and put in .env file
